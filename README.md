@@ -1,7 +1,7 @@
 ### Olá! Me chamo Raquel Severo 👋
 
-- 🔭 Atualmente estudo Engenharia de Software e também sou mestranda em Geoquímica/Meteoritos
-- 🌱 Estou estudando atualmente: Java, PHP, JavaScript, HTML e CSS
+- 🔭 Atualmente estudo Engenharia de Software e também sou pós graduanda em Gestão de Projetos pela Conquer.
+- 🌱 Estou estudando atualmente: JavaScript, Typescript, HTML e CSS
 - 😄 Pronomes: ela/dela
 
  <div>
