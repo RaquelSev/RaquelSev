@@ -1,7 +1,7 @@
 ### Olá! Me chamo Raquel Severo 👋
 
 - 🔭 Atualmente estudo Engenharia de Software e também sou pós graduanda em Gestão de Projetos pela Conquer.
-- 🌱 Estou estudando atualmente: JavaScript, Typescript, HTML e CSS - com foco em ReactJs e NodeJs
+- 🌱 Estou estudando atualmente: JavaScript, Typescript, HTML e CSS - com foco em VueJs
 - 😄 Pronomes: ela/dela
 
  <div>
@@ -15,8 +15,11 @@
    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
    <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+    < src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+    
+    <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+
+  
    
 
   
@@ -26,7 +29,6 @@
  
  <div>
    <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-plain.svg">
 
  </div>
   
