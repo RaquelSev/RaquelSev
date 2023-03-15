@@ -1,7 +1,8 @@
 ### Olá! Me chamo Raquel Severo 👋
 
+- 👩🏻‍💻 Estagiária de desenvolvimento trabalhando com VueJs(Nuxt), integração com APIs e  Single Page Applications.
 - 🔭 Atualmente estudo Engenharia de Software e também sou pós graduanda em Gestão de Projetos pela Conquer.
-- 🌱 Estou estudando atualmente: JavaScript, Typescript, HTML e CSS - com foco em VueJs
+- 🌱 Estou estudando atualmente: JavaScript, Typescript - usando VueJs, React e Node
 - 😄 Pronomes: ela/dela
 
  <div>
