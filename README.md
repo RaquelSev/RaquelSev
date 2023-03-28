@@ -5,6 +5,9 @@
 - 🌱 I am studying JavaScript, VueJs, Node, and GOlang.
 - 😄 Pronoms: she/her
 
+Projects that I am currently working:
+API Bookstore (Back-end): https://github.com/RaquelSev/api-bookstore
+Interfance Bookstore (Front-end):https://github.com/RaquelSev/front-bookstore
 
 ### Olá! Me chamo Raquel Severo 👋
 
@@ -12,6 +15,10 @@
 - 🔭 Atualmente estudo Engenharia de Software e também sou pós graduanda em Gestão de Projetos pela Conquer.
 - 🌱 Estou estudando atualmente: JavaScript, VueJs, Node e GOlang.
 - 😄 Pronomes: ela/dela
+
+Projetos que estou atualmente trabalhando:
+API Livraria (Back-end): https://github.com/RaquelSev/api-bookstore
+Interface Livraria (Front-end): https://github.com/RaquelSev/front-bookstore
 
  <div>
   <a href="https://github.com/RaquelSev">
