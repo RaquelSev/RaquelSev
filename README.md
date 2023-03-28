@@ -1,8 +1,16 @@
+### Hi! My name is Raquel Severo 👋
+
+- 👩🏻‍💻 Full-stack developer intern working with VueJS(Nuxt), API integration, and Single Page Applications
+- 🔭 Currently, I am enrolled in a Software Engineering Bachelor program and doing a pos program in Project Management at Conquer School
+- 🌱 I am studying JavaScript, VueJs, Node, and GOlang.
+- 😄 Pronoms: she/her
+
+
 ### Olá! Me chamo Raquel Severo 👋
 
 - 👩🏻‍💻 Estagiária de desenvolvimento trabalhando com VueJs(Nuxt), integração com APIs e  Single Page Applications.
 - 🔭 Atualmente estudo Engenharia de Software e também sou pós graduanda em Gestão de Projetos pela Conquer.
-- 🌱 Estou estudando atualmente: JavaScript, Typescript - usando VueJs, React e Node
+- 🌱 Estou estudando atualmente: JavaScript, VueJs, Node e GOlang.
 - 😄 Pronomes: ela/dela
 
  <div>
