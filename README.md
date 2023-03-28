@@ -5,7 +5,7 @@
 - 🌱 I am studying JavaScript, VueJs, Node, and GOlang.
 - 😄 Pronoms: she/her
 ##
-- Projects that I am currently working:
+### Projects that I am currently working:
 - API Bookstore (Back-end): https://github.com/RaquelSev/api-bookstore
 - Interfance Bookstore (Front-end):https://github.com/RaquelSev/front-bookstore
 
@@ -16,7 +16,7 @@
 - 🌱 Estou estudando atualmente: JavaScript, VueJs, Node e GOlang.
 - 😄 Pronomes: ela/dela
 ##
-- Projetos que estou atualmente trabalhando:
+### Projetos que estou atualmente trabalhando:
 - API Livraria (Back-end): https://github.com/RaquelSev/api-bookstore
 - Interface Livraria (Front-end): https://github.com/RaquelSev/front-bookstore
 
