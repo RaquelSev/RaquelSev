@@ -8,7 +8,8 @@
 ### Projects that I am currently working:
 - API Bookstore (Back-end): https://github.com/RaquelSev/api-bookstore
 - Interfance Bookstore (Front-end):https://github.com/RaquelSev/front-bookstore
-
+##
+##
 ### Olá! Me chamo Raquel Severo 👋
 
 - 👩🏻‍💻 Estagiária de desenvolvimento trabalhando com VueJs(Nuxt), integração com APIs e  Single Page Applications.
