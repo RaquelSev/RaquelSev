@@ -25,10 +25,8 @@
    <img align="center" alt="html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
    <img align="center" alt="vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-
-  
-   
-
+   <img align="center" alt="node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+        
   
 </div>
       
@@ -36,7 +34,7 @@
  
  <div>
    <img align="center" alt="vscode" height="30" width="40"         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="vscode" height="30" width="40"  
+  <img align="center" alt="jira" height="30" width="40"  
        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
           
  </div>
