@@ -7,7 +7,7 @@
 ##
 ### Projects that I am currently working:
 - API Bookstore (Back-end): https://github.com/RaquelSev/api-bookstore
-- Interfance Bookstore (Front-end):https://github.com/RaquelSev/front-bookstore
+- Interface Bookstore (Front-end):https://github.com/RaquelSev/front-bookstore
 ##
 ##
 ### Olá! Me chamo Raquel Severo 👋
